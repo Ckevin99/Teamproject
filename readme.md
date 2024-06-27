@@ -2,6 +2,8 @@
 
 **Project Title**: Goal Getter: Make Goals Better
 
+**Contributors**: Alexis Rudy, Dylan Butterfield, Jonathan Leonardson, Kevin Correia, Logan Wagstaff
+
 **Project Description**: A program that gamifies goals. It allows people to play a game on achieving their real life goals and earn either in game rewards or real life rewards depending on their points. 
 
 **Project Goals**:
