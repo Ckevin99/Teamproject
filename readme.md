@@ -1,4 +1,4 @@
-## Overview
+## Team 3: Team Project 
 
 **Project Title**: Goal Getter: Make Goals Better
 
