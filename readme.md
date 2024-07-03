@@ -13,6 +13,20 @@
 - Splitting larger projects into smaller pieces
 - Being able to integrate multiple smaller projects into a larger main project
 
+## Project Checklist
+* [ ] Goalkeeping
+  - [ ] Make goals
+  - [ ] Display goals
+  - [ ] Complete goals
+  - [ ] Keep points
+  - [ ] Spend points
+* [ ] Create World
+  - [ ] Make background
+  - [ ] Import character
+  - [ ] Main menu
+  - [ ] Shop
+* [ ] Make it pretty! 
+
 ## Project Details
 
 Requirements:
