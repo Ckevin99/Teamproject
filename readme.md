@@ -29,7 +29,7 @@
 
 ## Project Details
 
-Requirements:
+**Requirements:**
 
 * Create and store goals
 * Complete goals to acquire points
@@ -39,7 +39,7 @@ Requirements:
 * Main menu
 * Main screen with character 
 
-Stretch:
+**Stretch:**
 
 * Allow people to customize character
 * More items in the shop to buy for character creation
@@ -54,7 +54,7 @@ Stretch:
     - Dylan: Created main scene and character
     - Jonathan: Created start screen and music
  
-*Associate Mentions:
+* Associate Mentions:
     - Ben: Created project chart at beginning of project 
 
 ## Instructions for Build and Use
