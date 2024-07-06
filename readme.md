@@ -45,6 +45,18 @@ Stretch:
 * More items in the shop to buy for character creation
 * Have a database to store users, goals, and points
 
+**Team-Member Tasks** 
+* UI Programming:
+    - Alexis: Created base goal program & creating database
+    - Kevin: Created main UNITY program that will be used for goalkeeping, points and store
+    - Logan: Created prototype UNITY goal program to integrate into other programs
+* World Creation & Design:
+    - Dylan: Created main scene and character
+    - Jonathan: Created start screen and music
+ 
+*Associate Mentions:
+    - Ben: Created project chart at beginning of project 
+
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
