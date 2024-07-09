@@ -2,7 +2,7 @@
 
 **Project Title**: Goal Getter: Make Goals Better
 
-**Contributors**: Alexis Rudy, Dylan Butterfield, Jonathan Leonardson, Kevin Correia, Logan Wagstaff
+**Contributors**: Alexis Rudy, Ben Wassum, Dylan Butterfield, Jonathan Leonardson, Kevin Correia, Logan Wagstaff
 
 **Project Description**: A program that gamifies goals. It allows people to play a game on achieving their real life goals and earn either in game rewards or real life rewards depending on their points. 
 
@@ -15,17 +15,18 @@
 
 ## Project Checklist
 * [ ] Goalkeeping
-  - [ ] Make goals
+  - [X] Make goals
   - [ ] Display goals
   - [ ] Complete goals
-  - [ ] Keep points
-  - [ ] Spend points
+  - [X] Keep points
+  - [X] Spend points
 * [ ] Create World
-  - [ ] Make background
-  - [ ] Import character
-  - [ ] Main menu
+  - [X] Make background
+  - [X] Import character
+  - [X] Main menu
   - [ ] Shop
-* [ ] Make it pretty! 
+* [ ] Make it pretty!
+* [ ] Integrate
 
 ## Project Details
 
@@ -53,9 +54,7 @@
 * World Creation & Design:
     - Dylan: Created main scene and character
     - Jonathan: Created start screen and music
- 
-* Associate Mentions:
-    - Ben: Created project chart at beginning of project 
+    - Ben: Created program diagram
 
 ## Instructions for Build and Use
 
@@ -79,18 +78,21 @@ To recreate the development environment, you need the following software and/or 
 * If you want to access the scripts, we will attach them. 
 * Everything should be inside the scripts or the unity program. 
 
-## Useful Websites to Learn More
+## Inspiration and Important Sites
 
-I found these websites useful in developing this software:
+We used these sources to help progress our project:
 
 * **Inspiration**: [Pokémon JavaScript Game Tutorial with HTML Canvas](https://www.youtube.com/watch?v=yP5DKzriqXA) 
 * **Help with Unity**: [Chat GPT](https://chatgpt.com/)
-* **Unity help/cloud**: [Unity Website](https://cloud.unity.com/home/login?redirectTo=Lw==)
+* **Unity Cloud**: [Unity Website](https://cloud.unity.com/home/login?redirectTo=Lw==)
+* **Firebase Database**: [Firebase](https://firebase.google.com/)
+* **Unity Docs**: [Unity](https://docs.unity3d.com/Manual/index.html)
+* **Youtube Tutorial**: [YouTube](https://www.youtube.com/watch?v=-GWjA6dixV4)
 
-## Future Work
+## Future Goals and Work
 
-The following items I plan to fix, improve, and/or add to this project in the future:
+These are some ideas for future work:
 
-* [ ] Publish game
+* [ ] Publish game to a platform
 * [ ] Make mobile version 
-* [ ] Make a competition version
+* [ ] Make a competitive mode
