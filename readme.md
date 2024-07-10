@@ -13,7 +13,7 @@
 - Splitting larger projects into smaller pieces
 - Being able to integrate multiple smaller projects into a larger main project
 
-## Project Checklist
+## Team Checklist
 * [ ] Goalkeeping
   - [X] Make goals
   - [ ] Display goals
