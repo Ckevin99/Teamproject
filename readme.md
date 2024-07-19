@@ -60,9 +60,10 @@
 
 Steps to build and/or run the software:
 
-1. Extract zip folder to have access to the program. 
-2. Find program application and click on it to start the game.
-3. Once game starts, then chooce the option you want to follow.
+1. Must have Unity installed
+2. Take Unity files in this GitHub and import them into Unity program
+3. Implement files into program to have it re-create the program
+4. **Github hates Unity files, if you want a video let us know becuase its really confusing
 
 Instructions for using the software:
 
