@@ -13,7 +13,7 @@ public class displaylistgoals : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // display all goals
     void displaygoals()
     {
         foreach (var i in maindata.goals){

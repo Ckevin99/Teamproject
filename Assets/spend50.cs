@@ -20,7 +20,7 @@ public class spend50 : MonoBehaviour
         button.onClick.AddListener(spending);
     }
 
-    // Update is called once per frame
+  // Remove points from the data object
     public void spending()
     {
         if (data.points-50>0)

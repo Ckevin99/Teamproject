@@ -6,7 +6,7 @@ using UnityEngine;
 [System.Serializable]
 public class Data_user : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Create initial data
     public int points = 0;
     public string user_name = "User";
 
@@ -29,7 +29,7 @@ public class Data_user : MonoBehaviour
 
 
 }
-
+// Goal object
 public class User_Goal : MonoBehaviour{
 
     public string goal_name;

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class shoppanel : MonoBehaviour
 
 {
-    // Start is called before the first frame update
+    // refernce objects
     public GameObject shop_panel;
     public Button button;
     void Start()
@@ -15,7 +15,7 @@ public class shoppanel : MonoBehaviour
         Debug.Log("Hi");
     }
 
-    // Update is called once per frame
+    // Open panel
 public void SetPanelActive()
 {
     Debug.Log("Hi");

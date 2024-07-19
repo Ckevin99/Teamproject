@@ -25,7 +25,7 @@ public class goalpanel : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+        // display all goals from the user data and display it
 
 public void displaygoals()
     {

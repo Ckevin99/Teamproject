@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class goalpanelclose : MonoBehaviour
 
 {
-    // Start is called before the first frame update
+    // reference object data
     public GameObject goal_panel;
     public Button button;
     void Start()
@@ -15,7 +15,7 @@ public class goalpanelclose : MonoBehaviour
         Debug.Log("started");
     }
 
-    // Update is called once per frame
+    // Close panel on click
 public void SetPanelActive()
 {
     Debug.Log("Hi");
