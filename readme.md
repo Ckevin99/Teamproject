@@ -1,4 +1,4 @@
-## Team 3: Team Project 
+## Game: Goal Keeping
 
 **Project Title**: Goal Getter: Make Goals Better
 
