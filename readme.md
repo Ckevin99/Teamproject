@@ -14,19 +14,19 @@
 - Being able to integrate multiple smaller projects into a larger main project
 
 ## Team Checklist
-* [ ] Goalkeeping
+* [X] Goalkeeping
   - [X] Make goals
-  - [ ] Display goals
-  - [ ] Complete goals
+  - [X] Display goals
+  - [X] Complete goals
   - [X] Keep points
   - [X] Spend points
-* [ ] Create World
+* [X] Create World
   - [X] Make background
   - [X] Import character
   - [X] Main menu
-  - [ ] Shop
-* [ ] Make it pretty!
-* [ ] Integrate
+  - [X] Shop
+* [X] Make it pretty!
+* [X] Integrate
 
 ## Project Details
 
@@ -36,7 +36,7 @@
 * Complete goals to acquire points
 * Store/save points
 * Create a shop with items 
-* Points used in a shop to get rewards
+* Points used in a shop to get "rewards"
 * Main menu
 * Main screen with character 
 
@@ -50,7 +50,7 @@
 * UI Programming:
     - Alexis: Created base goal program & creating database
     - Kevin: Created main UNITY program that will be used for goalkeeping, points and store
-    - Logan: Created prototype UNITY goal program to integrate into other programs
+    - Logan: Created prototype UNITY goal program to integrate into other programs. Completed ReadMe
 * World Creation & Design:
     - Dylan: Created main scene and character
     - Jonathan: Created start screen and music
@@ -62,21 +62,23 @@ Steps to build and/or run the software:
 
 1. Extract zip folder to have access to the program. 
 2. Find program application and click on it to start the game.
-3. Once game starts, the chooce the option you want to follow.
+3. Once game starts, then chooce the option you want to follow.
 
 Instructions for using the software:
 
 1. Main menu will open, press start to begin, or press other options to see what they do.
-2. There will be a dropdown on the top left, select the option you want.
-3. The goal selection will open the goal tab and you can add/complete/view goals from this tab.
+2. You will see a breakdancing character in the middle of the screen. There will be buttons on the top left, select the option you want.
+3. Quit will take you back to the main menu.
+4. The goal selection will open the goal tab and you can add/complete/view goals from this tab.
+5. The store selection will open the store, which will use your points to buy (give permission to buy) "real" life items.
 
 ## Development Environment 
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Unity was our development environment. 
-* If you want to access the scripts, we will attach them. 
-* Everything should be inside the scripts or the unity program. 
+* We will try to attach C# scripts for viewing. 
+* Everything should be inside the scripts and/or the Unity program. 
 
 ## Inspiration and Important Sites
 
